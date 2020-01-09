@@ -1,0 +1,4 @@
+
+esquid:UselessImportCheck":Remove this unused import 'android.content.res.Resources'.(ÿΓάσ8δ¤φίψ-
+U"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(ιλ­όÿÿÿÿ
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(­ξϊ8—©„ΰψ-

@@ -1,0 +1,14 @@
+
+U"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(õÍ×¨þÿÿÿÿ
+gsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(õÍ×¨þÿÿÿÿ
+^$squid:AssignmentInSubExpressionCheck©".Extract the assignment out of this expression.(õ˜Å}
+_$squid:AssignmentInSubExpressionCheck¨".Extract the assignment out of this expression.(™Óê¿
+gsquid:S1192±"JDefine a constant instead of duplicating this literal " has Won!" 3 times.(åÞ‹áÿÿÿÿÿ
+P"squid:SwitchLastCaseIsDefaultCheckW""Add a default case to this switch.(ú©ÍË
+Tsquid:UselessImportCheck"0Remove this unused import 'android.media.Image'.(ëïøÂ
+Osquid:S1135á"2Complete the task associated to this TODO comment.(–Ûž€ÿÿÿÿÿ
+esquid:S1192±"HDefine a constant instead of duplicating this literal "Player " 3 times.(åÞ‹áÿÿÿÿÿ
+bsquid:S1301W"KReplace this "switch" statement by "if" statements to increase readability.(ú©ÍË
+Osquid:S1135þ"2Complete the task associated to this TODO comment.(³ŠèÌþÿÿÿÿ
+esquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(²Ú±Ž
+jsquid:S3776â"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(åªóÔ

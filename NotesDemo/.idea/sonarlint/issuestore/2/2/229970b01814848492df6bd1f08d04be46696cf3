@@ -1,0 +1,11 @@
+
+Ÿsquid:S11865"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«û³±8Ÿ¦ŠÀø-
+Ÿsquid:S1186L"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±¾ê8ÃšÚø-
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ò÷²¾ø-
+_squid:UselessImportCheck"4Remove this unused import 'android.widget.ListView'.(Œ‰Ö×8÷Ã±¾ø-
+^squid:UselessImportCheck".Remove this unused import 'android.view.View'.(Ø½­äşÿÿÿÿ8ò÷²¾ø-
+bsquid:UselessImportCheck"7Remove this unused import 'android.widget.AdapterView'.(¶¾éæ8ò÷²¾ø-
+jsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(Ê’åÃşÿÿÿÿ
+^squid:UselessImportCheck"3Remove this unused import 'android.widget.Adapter'.(Ùƒùê8İà©¾ø-
+`squid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8ûò¿ø-
+hsquid:UselessImportCheck"8Remove this unused import 'android.widget.ArrayAdapter'.( €ŠÑÿÿÿÿÿ8ò÷²¾ø-

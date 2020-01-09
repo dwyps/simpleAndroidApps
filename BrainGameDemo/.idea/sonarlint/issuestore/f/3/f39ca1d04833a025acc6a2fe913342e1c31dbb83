@@ -1,0 +1,24 @@
+
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ıÉ°àø-
+]squid:UselessImportCheck"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ8—Î­àø-
+Vsquid:UselessImportCheck"3Remove this unused import 'android.content.Intent'.(³ğ‹G
+asquid:UselessImportCheck"6Remove this unused import 'java.io.InputStreamReader'.(ãˆÎÉ8—Î­àø-
+Usquid:S1135#"2Complete the task associated to this TODO comment.(êÅŒãüÿÿÿÿ8„Š¯àø-
+Xsquid:UselessImportCheck"/Remove this unused import 'java.util.Currency'.(·®õãÿÿÿÿÿ
+asquid:UselessImportCheck"8Remove this unused import 'android.widget.ArrayAdapter'.( €ŠÑÿÿÿÿÿ
+V"squid:SwitchLastCaseIsDefaultCheck©""Add a default case to this switch.(—µË‡øÿÿÿÿ
+jsquid:UselessImportCheck":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8—Î­àø-
+esquid:MaximumInheritanceDepth!"<This class has 6 parents which is greater than 5 authorized.(²Ú±
+nsquid:UselessImportCheck"ERemove this unused import 'androidx.recyclerview.widget.ListAdapter'.(—¤›Ôıÿÿÿÿ
+^squid:UselessImportCheck".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8—Î­àø-
+Isquid:S1135R"2Complete the task associated to this TODO comment.(ğï’Ä
+_squid:UselessImportCheck"4Remove this unused import 'android.content.Context'.(©Ê‰è8—Î­àø-
+bsquid:UselessImportCheck"7Remove this unused import 'java.io.OutputStreamWriter'.(Ÿ“¸8—Î­àø-
+[squid:UselessImportCheck"0Remove this unused import 'java.io.InputStream'.(¹»º8—Î­àø-
+Psquid:S1135$"2Complete the task associated to this TODO comment.(ÙÒ½Ü8’ş¯àø-
+`squid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8—Î­àø-
+Tsquid:UselessImportCheck")Remove this unused import 'java.io.File'.(†Ğ¥Å8—Î­àø-
+^squid:UselessImportCheck"3Remove this unused import 'java.io.BufferedReader'.(€é²Å8—Î­àø-
+Xsquid:UselessImportCheck"4Remove this unused import 'android.widget.ListView'.(Œ‰Ö×
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8—Î­àø-
+_squid:UselessImportCheck"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜8—Î­àø-
